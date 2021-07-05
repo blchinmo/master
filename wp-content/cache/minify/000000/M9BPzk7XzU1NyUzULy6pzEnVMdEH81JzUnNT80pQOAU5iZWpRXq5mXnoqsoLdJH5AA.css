@@ -1,0 +1,294 @@
+@font-face{font-family:'SortsMillGoudyItalic';src:url('http://www.srichinmoy.tv/wp-content/themes/ckg-media/fontkit/goudystm-italic-webfont.eot');src:url('http://www.srichinmoy.tv/wp-content/themes/ckg-media/fontkit/goudystm-italic-webfont.eot?#iefix') format('embedded-opentype'),
+url('http://www.srichinmoy.tv/wp-content/themes/ckg-media/fontkit/goudystm-italic-webfont.woff') format('woff'),
+url('http://www.srichinmoy.tv/wp-content/themes/ckg-media/fontkit/goudystm-italic-webfont.ttf') format('truetype'),
+url('http://www.srichinmoy.tv/wp-content/themes/ckg-media/fontkit/goudystm-italic-webfont.svg#SortsMillGoudyItalic') format('svg');font-weight:normal;font-style:normal}@font-face{font-family:'SortsMillGoudyRegular';src:url('http://www.srichinmoy.tv/wp-content/themes/ckg-media/fontkit/goudystm-webfont.eot');src:url('http://www.srichinmoy.tv/wp-content/themes/ckg-media/fontkit/goudystm-webfont.eot?#iefix') format('embedded-opentype'),
+url('http://www.srichinmoy.tv/wp-content/themes/ckg-media/fontkit/goudystm-webfont.woff') format('woff'),
+url('http://www.srichinmoy.tv/wp-content/themes/ckg-media/fontkit/goudystm-webfont.ttf') format('truetype'),
+url('http://www.srichinmoy.tv/wp-content/themes/ckg-media/fontkit/goudystm-webfont.svg#SortsMillGoudyRegular') format('svg');font-weight:normal;font-style:normal}body{background-color:#FFF;color:#666;font-family:Helvetica,Arial,Sans-Serif;font-size:75%;font-weight:400;margin:0;padding:0;text-align:left}#page{margin:20px
+auto;padding:0
+20px;width:976px}#header{background-color:#FFF;margin:0
+auto;margin-bottom:4px;width:100%}#content{font-size:1.2em}.entry{line-height:1.4em}.narrowcolumn{float:left;margin-right:20px;padding:0;width:660px}.widecolumn{width:100%}#site-description{font-size:1.2em}h2#site-title,h1#site-title{border:medium none;height:auto;margin:0.4em 0 0;text-indent:-9999em;width:auto;margin-left:10px;float:left}h2#site-title a, h1#site-title
+a{background:url("http://www.srichinmoy.tv/wp-content/themes/ckg-media/images/logo.jpg") no-repeat scroll 0 0 transparent;border:0
+none;color:#000;display:block;height:88px;margin:0;text-decoration:none;width:180px}#header-right{width:700px;float:right;text-align:right}#search-form{clear:right;float:right;width:205px;margin:7px
+10px 31px 0}#search-form
+input{padding:5px
+30px 5px 8px;width:167px;background:#fffef2 url(http://www.srichinmoy.tv/wp-content/themes/ckg-media/images/search-icon.png) no-repeat 98% center;border:1px
+#dedede solid;font-size:1.3em;border-radius:5px;font-family:SortsMillGoudyItalic,Georgia,serif;color:#787878;behavior:url(http://www.srichinmoy.tv/wp-content/themes/ckg-media/PIE/PIE.php)}#sidebar{float:right;width:295px}#leftsidebar{float:left;width:295px}#rightsidebar{float:left;width:295px}#fullsidebar{float:left;width:295px}h1,h2,h3,h4,h5,h6{font-weight:200;font-family:SortsMillGoudyItalic,Georgia,serif;color:#222;text-decoration:none}h1{font-size:1.9em;margin:0;padding:0}h2{font-size:1.6em;margin:0
+0 20px 0;padding-bottom:10px;border-bottom:1px #dedede solid;padding:0}.entry
+h1{font-size:1.3em;margin:20px
+0 0;padding:0}h3,h4,h5,h6{font-size:1.2em;margin:0;padding:0}p{margin:0
+0 4px 0;padding:0;font-size:13px;line-height:19px}a,h2 a:hover,h3 a:hover{color:#222;text-decoration:none}a:hover{color:#000;text-decoration:underline}blockquote{border-left:5px solid #ddd;margin:15px
+30px 0 10px;padding-left:20px}.post{margin:15px
+0 30px 10px}.datetime{margin-top:0;padding-top:0;color:#777;font-size:.9em;line-height:1.5em}.postmetadata{padding:10px
+20px;font-size:.9em;line-height:1.5em;background-color:#fdfbdf;border:1px
+solid #ededed;-webkit-border-radius:10px;-moz-border-radius:10px;border-radius:10px;behavior:url(http://www.srichinmoy.tv/wp-content/themes/ckg-media/PIE/PIE.php)}a.readmore{font-weight:200;font-family:SortsMillGoudyItalic,Georgia,serif}.screen-reader-text{position:absolute;left:-9000px}#single-post
+.entry{width:640px;margin:0
+0 20px 0;float:left;font-size:1.1em}.entry
+p{font-size:1.05em;line-height:1.5em;padding:0;margin-bottom:1em}.entry
+ul{list-style:disc;margin-left:0;padding:0
+0 0 10px}.entry
+li{margin:7px
+0 8px 10px}.entry
+ol{margin-left:0;padding:0
+0 0 10px}.clear{clear:both}.page h2, .page h3, .page h4, .page h5, .page
+h6{margin:1em
+0 .7em 0}.page{font-size: .92em}.page
+h3{font-size:1.4em}h3#respond,#commentform{margin-left:10px}#commentform
+input{margin:5px
+5px 1px 0;padding:2px;width:170px}#commentform
+textarea{padding:2px;width:100%}#commentform
+#submit{float:right;margin:0}.commentlist{padding:0;text-align:justify}.nocomments{margin:0;padding:0;text-align:center}h3#comment-number,h3#respond{font-size:1.6em;margin-top:30px}.authcomment{background-color:#ededed !important}.commentlist li,#commentform input,#commentform
+textarea{font:.9em Arial, Sans-Serif}.commentlist
+li{font-weight:700;list-style:none;margin:15px
+0 3px;padding:10px
+20px 5px 20px;border:1px
+solid #ccc;-webkit-border-radius:10px;-moz-border-radius:10px;border-radius:10px;behavior:url(http://www.srichinmoy.tv/wp-content/themes/ckg-media/PIE/PIE.php)}.commentlist cite,.commentlist cite
+a{font-size:1.1em;font-style:normal;font-weight:700}.commentlist
+p{font-weight:400;line-height:1.5em;margin:10px
+5px 10px 0;text-transform:none}#commentform
+p{margin:5px
+0}.commentmetadata{display:block;font-weight:400;margin:0}#access{width:100%}#access .menu-header,div.menu{font-size:13px;margin-left:12px;text-transform:uppercase;float:right;width:auto}#access .menu-header ul,
+div.menu
+ul{list-style:none;margin:0}#access .menu-header li,
+div.menu
+li{float:left;position:relative}#access
+a{color:#888;display:block;line-height:32px;padding:2px
+10px;text-decoration:none}#access ul
+ul{box-shadow:0px 3px 3px rgba(0,0,0,0.2);-moz-box-shadow:0px 3px 3px rgba(0,0,0,0.2);-webkit-box-shadow:0px 3px 3px rgba(0,0,0,0.2);display:none;position:absolute;top:36px;right:0;float:left;text-align:left;width:140px;border:1px
+#f0f0f0 solid;z-index:99999;padding:0px;margin:0;behavior:url(http://www.srichinmoy.tv/wp-content/themes/ckg-media/PIE/PIE.php)}#access ul ul
+li{min-width:160px}#access ul ul
+ul{left:100%;top:0}#access ul ul
+a{text-transform:none;background:#fff;line-height:1em;height:auto;padding:7px
+9px}#access li:hover>a{padding:1px
+9px;border:1px
+#f0f0f0 solid;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px;behavior:url(http://www.srichinmoy.tv/wp-content/themes/ckg-media/PIE/PIE.php)}#access ul ul :hover>a{color:#000;padding:6px
+8px}#access ul li:hover>ul{display:block}#access ul li.current_page_item > a,
+#access ul li.current-menu-ancestor > a,
+#access ul li.current-menu-item > a,
+#access ul li.current-menu-parent>a{color:#444}* html #access ul li.current_page_item a,
+* html #access ul li.current-menu-ancestor a,
+* html #access ul li.current-menu-item a,
+* html #access ul li.current-menu-parent a,
+* html #access ul li a:hover{color:#444}.sidebar-widget{background-color:#fffef2;border:1px
+solid #dedede;border-radius:10px;-moz-border-radius:10px;-webkit-border-radius:10px;margin-bottom:20px;padding:10px
+0;behavior:url(http://www.srichinmoy.tv/wp-content/themes/ckg-media/PIE/PIE.php)}#sidebar
+h2{padding:8px
+15px;border-bottom:1px solid #dedede;margin-bottom:0}#sidebar
+table{margin-top:10px}#sidebar tr
+td{padding-bottom:10px}#sidebar
+img{margin-right:7px}#sidebar
+h5{font-size:1.3em;line-height:1.15em;margin-bottom:2px}#sidebar
+ul{margin-top:10px;padding-left:30px}#sidebar ul
+li{font-size:1.1em;padding:3px
+0}#sidebar
+.textwidget{padding:0
+10px 0 5px}#sidebar
+p{font-size:1em;line-height:1.25em}.related-item{padding:10px}#arp_related_posts-3
+ul{margin:0;list-style:none;padding:0}#sidebar .related-item
+img{width:80px;height:67px;float:left;margin:0
+10px 5px 0}#sidebar .related-item
+h5{margin:3px
+0 5px 10px;font-size:1.2em}.related-item
+p{font-size: .95em;line-height:1.3em;margin-left:10px}#footer{clear:both;margin-top:50px;border-top:1px #ccc solid;padding:15px}#footer
+p{margin:0;padding:20px
+0}#footer-text{float:left}#footer-menu{float:right}#footer-menu
+ul{list-style:none}#footer-menu ul
+li{display:inline;padding:0
+10px}.sidebar-opacity{opacity:0.3;-moz-opacity:0.3;-webkit-opacity:0.3;filter:alpha(opacity=30)}#category-description{margin:10px
+0 0 0}#archive-list,#category-list{margin:15px
+0;background-color:#fdfbdf;border:1px
+solid #dedede;border-radius:10px;-moz-border-radius:10px;-webkit-border-radius:10px;padding:0;behavior:url(http://www.srichinmoy.tv/wp-content/themes/ckg-media/PIE/PIE.php)}#category-list
+h5{border-bottom:1px solid #dedede;padding:10px
+15px 7px 15px;margin-bottom:16px}#category-list-posts,#archive-list{padding-left:15px}#archive-list ul li, #category-list ul
+li{margin-right:20px;display:inline;width:300px;margin-bottom:20px;float:left;height:115px}#category-list ul li .column-text p,
+#archive-list ul li .column-text
+p{max-height:43px;overflow:hidden}#archives-3 select,select#cat{margin:5px
+20px;padding:2px
+0;font-size:1em;font-family:Helvetica,Arial,sans-serif}#archives-3 select option, select#cat
+option{margin:10px
+0;border-bottom:1px #eee dotted}.cell-padding-left-col{padding:0
+0 0 6px}.blue-header
+h6{background-color:#fdfbdf;padding:7px
+10px;-webkit-border-radius:10px;-moz-border-radius:10px;border-radius:10px;border:1px
+solid #dedede;behavior:url(http://www.srichinmoy.tv/wp-content/themes/ckg-media/PIE/PIE.php);margin-bottom:10px;width:400px}.plain
+a{text-decoration:none;border-bottom:none;color:#4099e9}.float-left{float:left;margin:0
+10px 5px 0;padding:0;border:none}.float-right{float:right;margin:0
+0 5px 10px;padding:0;border:none}.image-left{float:left;padding:0;margin:0
+15px 10px 0;border:none;clear:both}.image-right{float:right;padding:0;margin:0
+0 10px 15px;border:none;clear:both}a
+img{border:none}p
+img{max-width:580px;padding:0}img.centered{display:block;margin-left:auto;margin-right:auto}img.alignright{display:inline;margin:0
+0 2px 7px;padding:4px}img.alignleft{display:inline;margin:0
+7px 2px 0;padding:4px}img.avatar{float:right;margin-left:5px}.alignright{float:right}.alignleft{float:left}.aligncenter,div.aligncenter{display:block;margin-left:auto;margin-right:auto}#slideshow-wrapper{margin-bottom:20px;padding:0}#slideshow-top-widget{padding:10px
+10px;font-size:1.1em;//font-family: SortsMillGoudyItalic,Georgia,serif;border:1px
+solid #dedede;border-bottom:0;border-radius:10px 10px 0 0;-moz-border-radius:10px 10px 0 0;-webkit-border-radius:10px 10px 0 0;behavior:url(http://www.srichinmoy.tv/wp-content/themes/ckg-media/PIE/PIE.php)}#tabs{padding:0;border:1px
+solid #dedede;border-radius:0 0 10px 10px;-moz-border-radius:0 0 10px 10px;-webkit-border-radius:0 0 10px 10px;behavior:url(http://www.srichinmoy.tv/wp-content/themes/ckg-media/PIE/PIE.php);background-color:#fffef2;display:none}ul#slide-tabs{width:250px;list-style:none;float:left;padding:10px
+0;margin:0;background-color:#fdfbdf;-webkit-border-top-left-radius:10px;-webkit-border-bottom-left-radius:10px;-moz-border-radius-topleft:10px;-moz-border-radius-bottomleft:10px;border-top-left-radius:10px;border-bottom-left-radius:10px;border-right:1px #dedede solid}ul#slide-tabs
+li{padding:2px
+4px}ul#slide-tabs li.features-title{padding:0
+10px}ul#slide-tabs li.features-title
+h6{padding:0
+0 5px 0;color:#777}ul#slide-tabs li.ui-tabs-selected{border-right:none;border-bottom:1px #dedede solid;border-top:1px #dedede solid;background-color:#fffef2;width:243px}ul#slide-tabs
+img{width:48px;height:40px;float:left;margin-right:10px}ul#slide-tabs
+h6{padding-top:4px}.slide-pane{width:696px;list-style:none;float:left}.frontslide-text{padding:15px
+20px 10px 20px;width:306px;float:left;display:block}.frontslide-text
+h2{padding:0
+0 5px 0;margin-bottom:7px;border-bottom:none}p.front-datetime{padding:0;width:220px;color:#777;font-size: .97em}.frontslide-text .front-box-content{padding:0}.frontslide-text
+a.readmore{font-size:1.3em}ul.frontslide-options{list-style:none;margin-top:30px}ul.frontslide-options
+li{display:inline;font-size:1.3em;margin-right:15px;padding:5px
+10px}.slide-media{width:360px;margin:12px
+0;float:left;display:block;border:1px
+solid #ededed}.ui-tabs-hide{display:none}#front-box-1 img, #front-box-2 img, #sidebar img, #category-list img, #archive-list
+img{padding:5px;border:1px
+solid #dedede;background-color:#fff;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px;-moz-box-shadow:1px 1px 2px 2px rgba(150,150,150,.13);-webkit-box-shadow:1px 1px 2px 2px rgba(150,150,150,.13);box-shadow:1px 1px 2px 2px rgba(150,150,150,.13)}#front-box-1{margin-bottom:20px;padding:15px
+0;background-color:#fdfbdf;border:1px
+solid #dedede;border-radius:10px;-moz-border-radius:10px;-webkit-border-radius:10px;behavior:url(http://www.srichinmoy.tv/wp-content/themes/ckg-media/PIE/PIE.php)}#front-box-2{margin-bottom:20px;padding-top:15px;background-color:#fdfbdf;border:1px
+solid #dedede;border-radius:10px;-moz-border-radius:10px;-webkit-border-radius:10px;behavior:url(http://www.srichinmoy.tv/wp-content/themes/ckg-media/PIE/PIE.php)}#front-box-3{margin-bottom:20px;padding:15px
+0;background-color:#fdfbdf;border:1px
+solid #dedede;border-radius:10px;-moz-border-radius:10px;-webkit-border-radius:10px;behavior:url(http://www.srichinmoy.tv/wp-content/themes/ckg-media/PIE/PIE.php)}#front-box-1 h2, #front-box-2 h2, #front-box-3
+h2{border-bottom:1px solid #dedede;padding:0
+20px 7px 20px;margin-bottom:10px}.front-box-content
+a.readmore{font-size:1.15em;display:inline-block}#front-box-1 .front-box-content,
+#front-box-3 .front-box-content{padding:0
+15px}#front-box-2 .front-box-content{padding-left:15px}.column-1{width:305px;float:left;margin-right:20px}.column-2{width:300px;float:left}.recent-posts-list
+li{display:inline-block;width:300px;margin-right:15px;vertical-align:top}ul.front-item-list{list-style:none;padding-left:0}ul.front-item-list
+li{padding-bottom:10px;margin-bottom:10px}ul.front-item-list
+h4{line-height:1.05em;margin:2px
+0 5px 0;font-size:1.1em}ul.front-item-list
+img{width:80px;height:75px;float:left;margin-right:15px;display:block}.column-text{width:155px;float:left;dispaly:block}ul.front-item-list
+p{font-size: .85em;line-height:1.2em}#video-wrapper{position:relative;width:646px}.post .vimeo-wrapper{margin-bottom:30px}.jwplayer-singlepost-4to3,.jwplayer-singlepost-mixed,.jwplayer-singlepost-4to3-playlist{width:520px;margin-top:20px;border:1px
+solid #ededed;margin-bottom:30px}.jwplayer-singlepost-16to9,.jwplayer-singlepost-16to9-playlist{width:480px;margin-top:20px;border:1px
+solid #ededed;margin-bottom:30px}#video-actions{width:110px;float:right;margin-top:4px;margin-left:15px;font-size: .9em}#video-actions
+ul{list-style:none;padding-left:0;bottom:0;margin:0;padding:5px
+0;background-color:#fdfbdf;border:1px
+solid #dedede;border-radius:10px;-moz-border-radius:10px;-webkit-border-radius:10px;behavior:url(http://www.srichinmoy.tv/wp-content/themes/ckg-media/PIE/PIE.php);text-align:left;font-family:SortsMillGoudyItalic,Georgia,serif;font-size:1.15em}#video-actions ul
+li{padding:0
+15px 6px;margin-left:0;display:block;color:#222;text-align:left;border-bottom:1px solid #dedede;position:relative;cursor:pointer}.barcontainer{display:none !important}.bartext{text-align:left !important;width:75px !important}.bartext
+a{color:#222 !important}.tooltip-download{background:#fff;padding:10px
+10px 10px 20px;width:294px;font-size:12px;color:#777;position:absolute;bottom:-80px;left:108px;z-index:80;background-color:#fffef2;border:1px
+solid #dedede;border-radius:10px;-moz-border-radius:10px;-webkit-border-radius:10px;behavior:url(http://www.srichinmoy.tv/wp-content/themes/ckg-media/PIE/PIE.php);text-align:left;font-family:Helvetica,Arial,sans-serif}ul#download-links .filesize, ul#download-links .high-res{font-size: .9em}.tooltip-embed{background:#fff;padding:5px
+10px 10px 20px;width:294px;font-size:12px;color:#777;position:absolute;top:-50px;left:108px;z-index:80;background-color:#fffef2;border:1px
+solid #dedede;border-radius:10px;-moz-border-radius:10px;-webkit-border-radius:10px;behavior:url(http://www.srichinmoy.tv/wp-content/themes/ckg-media/PIE/PIE.php);font-family:Helvetica,Arial,sans-serif}.tooltip-embed
+h4{padding:10px
+0 5px 0;font-size:1.3em}.tooltip-embed
+strong{color:#222;margin:10px
+0 5px 0;font-size:1.1em}.tooltip-embed-close,.tooltip-download-close{color:#f00;font-size:1.6em;text-align:right;cursor:pointer;font-family:SortsMillGoudyItalic,Georgia,serif;margin-bottom:5px}.video-actions-current{background-color:#fffef2}#video-actions ul
+li.li_last{border-bottom:none}textarea.share-embed-code{width:250px}#ta-html-container,#ta-drupal-container,#ta-wp-container{position:relative;height:12px;width:120px;padding:5px;background-color:#777;color:#eee;cursor:pointer;border:1px
+solid #dedede;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px;behavior:url(http://www.srichinmoy.tv/wp-content/themes/ckg-media/PIE/PIE.php);margin:5px
+0 15px 0}#ta-html,#ta-drupal,#ta-wp{position:absolute;top:0;height:22px;width:130px}small{font-size:.9em;line-height:1.5em}code{font:1.0em 'Courier New', Courier, Fixed;border-left:5px solid #ddd;margin:15px
+30px 0 10px;padding-left:20px;display:block}acronym,abbr{border-bottom:1px dashed #999}acronym,abbr,span.caps{cursor:help;font-size:.9em;letter-spacing:.07em}ul.search_results{display:block;background-color:#fff;width:300px;max-height:530px;position:absolute;top:20px;left:-50px;overflow:hidden;z-index:9999;list-style-type:none;list-style-image:none;list-style-position:inside;padding:0px;margin:0px;border:1px
+solid #ededed;-webkit-border-radius:10px;-moz-border-radius:10px;border-radius:10px;-moz-box-shadow:5px 5px 3px #ededed;-webkit-box-shadow:5px 5px 3px #ededed;box-shadow:5px 5px 3px #ededede;behavior:url(http://www.srichinmoy.tv/wp-content/themes/ckg-media/PIE/PIE.php)}ul.search_results
+li{display:block;padding:5px
+10px;margin:0px
+0px 0px 0px;border-top:1px solid #ededed;text-align:left;background-color:#fdfbdf;text-decoration:none;height:55px;overflow:hidden}ul.search_results
+li.post_with_thumb{position:relative;height:60px}ul.search_results li:hover{background-color:#fffef2}ul.search_results li a, ul.search_results li a:visited{display:block;float:left;margin-left:0px;padding-left:0px;text-decoration:none;font-size: .95em;font-weight:bold}ul.search_results li.post_with_thumb
+a{width:225px;line-height:1.1em}ul.search_results p#daves-wordpress-live-search_author{margin:0px;font-size:90%;font-weight:bold}ul.search_results p#daves-wordpress-live-search_date{margin:0px;font-size:90%}ul.search_results li.post_with_thumb
+a{width:200px;float:left;margin-bottom:5px}ul.search_results li.post_with_thumb
+img.post_thumb{float:right;margin:3px
+0 10px 10px;height:48px;width:48px;background-color:#fff;padding:4px;border:1px
+solid #ededed;border-radius:3px;behavior:url(http://www.srichinmoy.tv/wp-content/themes/ckg-media/PIE/PIE.php)}ul.search_results li .excerpt, ul.search_results
+.meta{font-size: .95em;display:block;line-height:1.2em;height:41px;overflow:hidden}ul.search_results li.post_with_thumb
+.excerpt{width:225px;display:block;float:left;position:relative;top:-46px}ul.search_results
+.clearfix{float:none !important;clear:both !important}.search_footer{background-color:#ccc;width:100%;text-align:right;padding: .5em 0;font-size: .9em}.search_footer a,
+.search_footer a:visited{color:#222;margin-right:1em}#search
+.post{margin-bottom:0}#search
+h2{margin-bottom: .3em}.search-item{border-bottom:1px solid #ededed;padding-bottom:5px;margin-bottom:12px}.search-navigation{margin:10px
+0 20px 0;padding:10px
+20px;font-size:.9em;line-height:1.5em;background-color:#fdfbdf;border:1px
+solid #ededed;-webkit-border-radius:10px;-moz-border-radius:10px;border-radius:10px;behavior:url(http://www.srichinmoy.tv/wp-content/themes/ckg-media/PIE/PIE.php)}#text-box-2
+p{padding:0
+20px}#sidebar{float:left}#shout-stream
+#player{padding-top:15px}#shout-stream ul, #shout-stream
+p{padding:0
+15px}ul#ssUPdate
+li{display:none}.mejs-offscreen{position:absolute!important;top:-10000px;overflow:hidden;width:1px;height:1px}.mejs-container{position:relative;background:#000;font-family:Helvetica,Arial;text-align:left;vertical-align:top;text-indent:0}.me-plugin{position:absolute;height:auto;width:auto}.mejs-embed,.mejs-embed
+body{width:100%;height:100%;margin:0;padding:0;background:#000;overflow:hidden}.mejs-fullscreen{overflow:hidden!important}.mejs-container-fullscreen{position:fixed;left:0;top:0;right:0;bottom:0;overflow:hidden;z-index:1000}.mejs-container-fullscreen .mejs-mediaelement,.mejs-container-fullscreen
+video{width:100%;height:100%}.mejs-clear{clear:both}.mejs-background{position:absolute;top:0;left:0}.mejs-mediaelement{position:absolute;top:0;left:0;width:100%;height:100%}.mejs-poster{position:absolute;top:0;left:0;background-size:contain;background-position:50% 50%;background-repeat:no-repeat}:root .mejs-poster
+img{display:none}.mejs-poster
+img{border:0;padding:0;border:0}.mejs-overlay{position:absolute;top:0;left:0}.mejs-overlay-play{cursor:pointer}.mejs-overlay-button{position:absolute;top:50%;left:50%;width:100px;height:100px;margin:-50px 0 0 -50px;background:url(http://www.srichinmoy.tv/wp-includes/js/mediaelement/bigplay.svg) no-repeat}.no-svg .mejs-overlay-button{background-image:url(http://www.srichinmoy.tv/wp-includes/js/mediaelement/bigplay.png)}.mejs-overlay:hover .mejs-overlay-button{background-position:0 -100px}.mejs-overlay-loading{position:absolute;top:50%;left:50%;width:80px;height:80px;margin:-40px 0 0 -40px;background:#333;background:url(http://www.srichinmoy.tv/wp-includes/js/mediaelement/background.png);background:rgba(0,0,0,.9);background:-webkit-gradient(linear,0 0,0 100%,from(rgba(50,50,50,.9)),to(rgba(0,0,0,.9)));background:-webkit-linear-gradient(top,rgba(50,50,50,.9),rgba(0,0,0,.9));background:-moz-linear-gradient(top,rgba(50,50,50,.9),rgba(0,0,0,.9));background:-o-linear-gradient(top,rgba(50,50,50,.9),rgba(0,0,0,.9));background:-ms-linear-gradient(top,rgba(50,50,50,.9),rgba(0,0,0,.9));background:linear-gradient(rgba(50,50,50,.9),rgba(0,0,0,.9))}.mejs-overlay-loading
+span{display:block;width:80px;height:80px;background:transparent url(http://www.srichinmoy.tv/wp-includes/js/mediaelement/loading.gif) 50% 50% no-repeat}.mejs-container .mejs-controls{position:absolute;list-style-type:none;margin:0;padding:0;bottom:0;left:0;background:url(http://www.srichinmoy.tv/wp-includes/js/mediaelement/background.png);background:rgba(0,0,0,.7);background:-webkit-gradient(linear,0 0,0 100%,from(rgba(50,50,50,.7)),to(rgba(0,0,0,.7)));background:-webkit-linear-gradient(top,rgba(50,50,50,.7),rgba(0,0,0,.7));background:-moz-linear-gradient(top,rgba(50,50,50,.7),rgba(0,0,0,.7));background:-o-linear-gradient(top,rgba(50,50,50,.7),rgba(0,0,0,.7));background:-ms-linear-gradient(top,rgba(50,50,50,.7),rgba(0,0,0,.7));background:linear-gradient(rgba(50,50,50,.7),rgba(0,0,0,.7));height:30px;width:100%}.mejs-container .mejs-controls
+div{list-style-type:none;background-image:none;display:block;float:left;margin:0;padding:0;width:26px;height:26px;font-size:11px;line-height:11px;font-family:Helvetica,Arial;border:0}.mejs-controls .mejs-button
+button{cursor:pointer;display:block;font-size:0;line-height:0;text-decoration:none;margin:7px
+5px;padding:0;position:absolute;height:16px;width:16px;border:0;background:transparent url(http://www.srichinmoy.tv/wp-includes/js/mediaelement/controls.svg) no-repeat}.no-svg .mejs-controls .mejs-button
+button{background-image:url(http://www.srichinmoy.tv/wp-includes/js/mediaelement/controls.png)}.mejs-controls .mejs-button button:focus{outline:dotted 1px #999}.mejs-container .mejs-controls .mejs-time{color:#fff;display:block;height:17px;width:auto;padding:8px
+3px 0;overflow:hidden;text-align:center;-moz-box-sizing:content-box;-webkit-box-sizing:content-box;box-sizing:content-box}.mejs-container .mejs-controls .mejs-time
+a{color:#fff;font-size:11px;line-height:12px;display:block;float:left;margin:1px
+2px 0 0;width:auto}.mejs-controls .mejs-play
+button{background-position:0 0}.mejs-controls .mejs-pause
+button{background-position:0 -16px}.mejs-controls .mejs-stop
+button{background-position:-112px 0}.mejs-controls div.mejs-time-rail{direction:ltr;width:200px;padding-top:5px}.mejs-controls .mejs-time-rail span,.mejs-controls .mejs-time-rail
+a{display:block;position:absolute;width:180px;height:10px;-webkit-border-radius:2px;-moz-border-radius:2px;border-radius:2px;cursor:pointer}.mejs-controls .mejs-time-rail .mejs-time-total{margin:5px;background:#333;background:rgba(50,50,50,.8);background:-webkit-gradient(linear,0 0,0 100%,from(rgba(30,30,30,.8)),to(rgba(60,60,60,.8)));background:-webkit-linear-gradient(top,rgba(30,30,30,.8),rgba(60,60,60,.8));background:-moz-linear-gradient(top,rgba(30,30,30,.8),rgba(60,60,60,.8));background:-o-linear-gradient(top,rgba(30,30,30,.8),rgba(60,60,60,.8));background:-ms-linear-gradient(top,rgba(30,30,30,.8),rgba(60,60,60,.8));background:linear-gradient(rgba(30,30,30,.8),rgba(60,60,60,.8))}.mejs-controls .mejs-time-rail .mejs-time-buffering{width:100%;background-image:-o-linear-gradient(-45deg,rgba(255,255,255,.15) 25%,transparent 25%,transparent 50%,rgba(255,255,255,.15) 50%,rgba(255,255,255,.15) 75%,transparent 75%,transparent);background-image:-webkit-gradient(linear,0 100%,100% 0,color-stop(0.25,rgba(255,255,255,.15)),color-stop(0.25,transparent),color-stop(0.5,transparent),color-stop(0.5,rgba(255,255,255,.15)),color-stop(0.75,rgba(255,255,255,.15)),color-stop(0.75,transparent),to(transparent));background-image:-webkit-linear-gradient(-45deg,rgba(255,255,255,.15) 25%,transparent 25%,transparent 50%,rgba(255,255,255,.15) 50%,rgba(255,255,255,.15) 75%,transparent 75%,transparent);background-image:-moz-linear-gradient(-45deg,rgba(255,255,255,.15) 25%,transparent 25%,transparent 50%,rgba(255,255,255,.15) 50%,rgba(255,255,255,.15) 75%,transparent 75%,transparent);background-image:-ms-linear-gradient(-45deg,rgba(255,255,255,.15) 25%,transparent 25%,transparent 50%,rgba(255,255,255,.15) 50%,rgba(255,255,255,.15) 75%,transparent 75%,transparent);background-image:linear-gradient(-45deg,rgba(255,255,255,.15) 25%,transparent 25%,transparent 50%,rgba(255,255,255,.15) 50%,rgba(255,255,255,.15) 75%,transparent 75%,transparent);-webkit-background-size:15px 15px;-moz-background-size:15px 15px;-o-background-size:15px 15px;background-size:15px 15px;-webkit-animation:buffering-stripes 2s linear infinite;-moz-animation:buffering-stripes 2s linear infinite;-ms-animation:buffering-stripes 2s linear infinite;-o-animation:buffering-stripes 2s linear infinite;animation:buffering-stripes 2s linear infinite}@-webkit-keyframes buffering-stripes{from{background-position:0 0}to{background-position:30px 0}}@-moz-keyframes buffering-stripes{from{background-position:0 0}to{background-position:30px 0}}@-ms-keyframes buffering-stripes{from{background-position:0 0}to{background-position:30px 0}}@-o-keyframes buffering-stripes{from{background-position:0 0}to{background-position:30px 0}}@keyframes buffering-stripes{from{background-position:0 0}to{background-position:30px 0}}.mejs-controls .mejs-time-rail .mejs-time-loaded{background:#3caac8;background:rgba(60,170,200,.8);background:-webkit-gradient(linear,0 0,0 100%,from(rgba(44,124,145,.8)),to(rgba(78,183,212,.8)));background:-webkit-linear-gradient(top,rgba(44,124,145,.8),rgba(78,183,212,.8));background:-moz-linear-gradient(top,rgba(44,124,145,.8),rgba(78,183,212,.8));background:-o-linear-gradient(top,rgba(44,124,145,.8),rgba(78,183,212,.8));background:-ms-linear-gradient(top,rgba(44,124,145,.8),rgba(78,183,212,.8));background:linear-gradient(rgba(44,124,145,.8),rgba(78,183,212,.8));width:0}.mejs-controls .mejs-time-rail .mejs-time-current{background:#fff;background:rgba(255,255,255,.8);background:-webkit-gradient(linear,0 0,0 100%,from(rgba(255,255,255,.9)),to(rgba(200,200,200,.8)));background:-webkit-linear-gradient(top,rgba(255,255,255,.9),rgba(200,200,200,.8));background:-moz-linear-gradient(top,rgba(255,255,255,.9),rgba(200,200,200,.8));background:-o-linear-gradient(top,rgba(255,255,255,.9),rgba(200,200,200,.8));background:-ms-linear-gradient(top,rgba(255,255,255,.9),rgba(200,200,200,.8));background:linear-gradient(rgba(255,255,255,.9),rgba(200,200,200,.8));width:0}.mejs-controls .mejs-time-rail .mejs-time-handle{display:none;position:absolute;margin:0;width:10px;background:#fff;-webkit-border-radius:5px;-moz-border-radius:5px;border-radius:5px;cursor:pointer;border:solid 2px #333;top:-2px;text-align:center}.mejs-controls .mejs-time-rail .mejs-time-float{position:absolute;display:none;background:#eee;width:36px;height:17px;border:solid 1px #333;top:-26px;margin-left:-18px;text-align:center;color:#111}.mejs-controls .mejs-time-rail .mejs-time-float-current{margin:2px;width:30px;display:block;text-align:center;left:0}.mejs-controls .mejs-time-rail .mejs-time-float-corner{position:absolute;display:block;width:0;height:0;line-height:0;border:solid 5px #eee;border-color:#eee transparent transparent;-webkit-border-radius:0;-moz-border-radius:0;border-radius:0;top:15px;left:13px}.mejs-long-video .mejs-controls .mejs-time-rail .mejs-time-float{width:48px}.mejs-long-video .mejs-controls .mejs-time-rail .mejs-time-float-current{width:44px}.mejs-long-video .mejs-controls .mejs-time-rail .mejs-time-float-corner{left:18px}.mejs-controls .mejs-fullscreen-button
+button{background-position:-32px 0}.mejs-controls .mejs-unfullscreen
+button{background-position:-32px -16px}.mejs-controls .mejs-volume-button{}.mejs-controls .mejs-mute
+button{background-position:-16px -16px}.mejs-controls .mejs-unmute
+button{background-position:-16px 0}.mejs-controls .mejs-volume-button{position:relative}.mejs-controls .mejs-volume-button .mejs-volume-slider{display:none;height:115px;width:25px;background:url(http://www.srichinmoy.tv/wp-includes/js/mediaelement/background.png);background:rgba(50,50,50,.7);-webkit-border-radius:0;-moz-border-radius:0;border-radius:0;top:-115px;left:0;z-index:1;position:absolute;margin:0}.mejs-controls .mejs-volume-button:hover{-webkit-border-radius:0 0 4px 4px;-moz-border-radius:0 0 4px 4px;border-radius:0 0 4px 4px}.mejs-controls .mejs-volume-button .mejs-volume-slider .mejs-volume-total{position:absolute;left:11px;top:8px;width:2px;height:100px;background:#ddd;background:rgba(255,255,255,.5);margin:0}.mejs-controls .mejs-volume-button .mejs-volume-slider .mejs-volume-current{position:absolute;left:11px;top:8px;width:2px;height:100px;background:#ddd;background:rgba(255,255,255,.9);margin:0}.mejs-controls .mejs-volume-button .mejs-volume-slider .mejs-volume-handle{position:absolute;left:4px;top:-3px;width:16px;height:6px;background:#ddd;background:rgba(255,255,255,.9);cursor:N-resize;-webkit-border-radius:1px;-moz-border-radius:1px;border-radius:1px;margin:0}.mejs-controls a.mejs-horizontal-volume-slider{height:26px;width:60px;position:relative;display:table-cell;vertical-align:middle}.mejs-controls .mejs-horizontal-volume-slider .mejs-horizontal-volume-total{position:absolute;left:0;top:11px;width:50px;height:8px;margin:0;padding:0;font-size:1px;-webkit-border-radius:2px;-moz-border-radius:2px;border-radius:2px;background:#333;background:rgba(50,50,50,.8);background:-webkit-gradient(linear,0 0,0 100%,from(rgba(30,30,30,.8)),to(rgba(60,60,60,.8)));background:-webkit-linear-gradient(top,rgba(30,30,30,.8),rgba(60,60,60,.8));background:-moz-linear-gradient(top,rgba(30,30,30,.8),rgba(60,60,60,.8));background:-o-linear-gradient(top,rgba(30,30,30,.8),rgba(60,60,60,.8));background:-ms-linear-gradient(top,rgba(30,30,30,.8),rgba(60,60,60,.8));background:linear-gradient(rgba(30,30,30,.8),rgba(60,60,60,.8))}.mejs-controls .mejs-horizontal-volume-slider .mejs-horizontal-volume-current{position:absolute;left:0;top:11px;width:50px;height:8px;margin:0;padding:0;font-size:1px;-webkit-border-radius:2px;-moz-border-radius:2px;border-radius:2px;background:#fff;background:rgba(255,255,255,.8);background:-webkit-gradient(linear,0 0,0 100%,from(rgba(255,255,255,.9)),to(rgba(200,200,200,.8)));background:-webkit-linear-gradient(top,rgba(255,255,255,.9),rgba(200,200,200,.8));background:-moz-linear-gradient(top,rgba(255,255,255,.9),rgba(200,200,200,.8));background:-o-linear-gradient(top,rgba(255,255,255,.9),rgba(200,200,200,.8));background:-ms-linear-gradient(top,rgba(255,255,255,.9),rgba(200,200,200,.8));background:linear-gradient(rgba(255,255,255,.9),rgba(200,200,200,.8))}.mejs-controls .mejs-horizontal-volume-slider .mejs-horizontal-volume-handle{display:none}.mejs-controls .mejs-captions-button{position:relative}.mejs-controls .mejs-captions-button
+button{background-position:-48px 0}.mejs-controls .mejs-captions-button .mejs-captions-selector{visibility:hidden;position:absolute;bottom:26px;right:-51px;width:85px;height:100px;background:url(http://www.srichinmoy.tv/wp-includes/js/mediaelement/background.png);background:rgba(50,50,50,.7);border:solid 1px transparent;padding:10px
+10px 0;overflow:hidden;-webkit-border-radius:0;-moz-border-radius:0;border-radius:0}.mejs-controls .mejs-captions-button .mejs-captions-selector
+ul{margin:0;padding:0;display:block;list-style-type:none!important;overflow:hidden}.mejs-controls .mejs-captions-button .mejs-captions-selector ul
+li{margin:0
+0 6px;padding:0;list-style-type:none!important;display:block;color:#fff;overflow:hidden}.mejs-controls .mejs-captions-button .mejs-captions-selector ul li
+input{clear:both;float:left;margin:3px
+3px 0 5px}.mejs-controls .mejs-captions-button .mejs-captions-selector ul li
+label{width:55px;float:left;padding:4px
+0 0;line-height:15px;font-family:helvetica,arial;font-size:10px}.mejs-controls .mejs-captions-button .mejs-captions-translations{font-size:10px;margin:0
+0 5px}.mejs-chapters{position:absolute;top:0;left:0;-xborder-right:solid 1px #fff;width:10000px;z-index:1}.mejs-chapters .mejs-chapter{position:absolute;float:left;background:#222;background:rgba(0,0,0,.7);background:-webkit-gradient(linear,0 0,0 100%,from(rgba(50,50,50,.7)),to(rgba(0,0,0,.7)));background:-webkit-linear-gradient(top,rgba(50,50,50,.7),rgba(0,0,0,.7));background:-moz-linear-gradient(top,rgba(50,50,50,.7),rgba(0,0,0,.7));background:-o-linear-gradient(top,rgba(50,50,50,.7),rgba(0,0,0,.7));background:-ms-linear-gradient(top,rgba(50,50,50,.7),rgba(0,0,0,.7));background:linear-gradient(rgba(50,50,50,.7),rgba(0,0,0,.7));filter:progid:DXImageTransform.Microsoft.Gradient(GradientType=0, startColorstr=#323232, endColorstr=#000000);overflow:hidden;border:0}.mejs-chapters .mejs-chapter .mejs-chapter-block{font-size:11px;color:#fff;padding:5px;display:block;border-right:solid 1px #333;border-bottom:solid 1px #333;cursor:pointer}.mejs-chapters .mejs-chapter .mejs-chapter-block-last{border-right:0}.mejs-chapters .mejs-chapter .mejs-chapter-block:hover{background:#666;background:rgba(102,102,102,.7);background:-webkit-gradient(linear,0 0,0 100%,from(rgba(102,102,102,.7)),to(rgba(50,50,50,.6)));background:-webkit-linear-gradient(top,rgba(102,102,102,.7),rgba(50,50,50,.6));background:-moz-linear-gradient(top,rgba(102,102,102,.7),rgba(50,50,50,.6));background:-o-linear-gradient(top,rgba(102,102,102,.7),rgba(50,50,50,.6));background:-ms-linear-gradient(top,rgba(102,102,102,.7),rgba(50,50,50,.6));background:linear-gradient(rgba(102,102,102,.7),rgba(50,50,50,.6));filter:progid:DXImageTransform.Microsoft.Gradient(GradientType=0, startColorstr=#666666, endColorstr=#323232)}.mejs-chapters .mejs-chapter .mejs-chapter-block .ch-title{font-size:12px;font-weight:700;display:block;white-space:nowrap;text-overflow:ellipsis;margin:0
+0 3px;line-height:12px}.mejs-chapters .mejs-chapter .mejs-chapter-block .ch-timespan{font-size:12px;line-height:12px;margin:3px
+0 4px;display:block;white-space:nowrap;text-overflow:ellipsis}.mejs-captions-layer{position:absolute;bottom:0;left:0;text-align:center;line-height:20px;font-size:16px;color:#fff}.mejs-captions-layer
+a{color:#fff;text-decoration:underline}.mejs-captions-layer[lang=ar]{font-size:20px;font-weight:400}.mejs-captions-position{position:absolute;width:100%;bottom:15px;left:0}.mejs-captions-position-hover{bottom:35px}.mejs-captions-text{padding:3px
+5px;background:url(http://www.srichinmoy.tv/wp-includes/js/mediaelement/background.png);background:rgba(20,20,20,.5);white-space:pre-wrap}.me-cannotplay{}.me-cannotplay
+a{color:#fff;font-weight:700}.me-cannotplay
+span{padding:15px;display:block}.mejs-controls .mejs-loop-off
+button{background-position:-64px -16px}.mejs-controls .mejs-loop-on
+button{background-position:-64px 0}.mejs-controls .mejs-backlight-off
+button{background-position:-80px -16px}.mejs-controls .mejs-backlight-on
+button{background-position:-80px 0}.mejs-controls .mejs-picturecontrols-button{background-position:-96px 0}.mejs-contextmenu{position:absolute;width:150px;padding:10px;border-radius:4px;top:0;left:0;background:#fff;border:solid 1px #999;z-index:1001}.mejs-contextmenu .mejs-contextmenu-separator{height:1px;font-size:0;margin:5px
+6px;background:#333}.mejs-contextmenu .mejs-contextmenu-item{font-family:Helvetica,Arial;font-size:12px;padding:4px
+6px;cursor:pointer;color:#333}.mejs-contextmenu .mejs-contextmenu-item:hover{background:#2C7C91;color:#fff}.mejs-controls .mejs-sourcechooser-button{position:relative}.mejs-controls .mejs-sourcechooser-button
+button{background-position:-128px 0}.mejs-controls .mejs-sourcechooser-button .mejs-sourcechooser-selector{visibility:hidden;position:absolute;bottom:26px;right:-10px;width:130px;height:100px;background:url(http://www.srichinmoy.tv/wp-includes/js/mediaelement/background.png);background:rgba(50,50,50,.7);border:solid 1px transparent;padding:10px;overflow:hidden;-webkit-border-radius:0;-moz-border-radius:0;border-radius:0}.mejs-controls .mejs-sourcechooser-button .mejs-sourcechooser-selector
+ul{margin:0;padding:0;display:block;list-style-type:none!important;overflow:hidden}.mejs-controls .mejs-sourcechooser-button .mejs-sourcechooser-selector ul
+li{margin:0
+0 6px;padding:0;list-style-type:none!important;display:block;color:#fff;overflow:hidden}.mejs-controls .mejs-sourcechooser-button .mejs-sourcechooser-selector ul li
+input{clear:both;float:left;margin:3px
+3px 0 5px}.mejs-controls .mejs-sourcechooser-button .mejs-sourcechooser-selector ul li
+label{width:100px;float:left;padding:4px
+0 0;line-height:15px;font-family:helvetica,arial;font-size:10px}.mejs-postroll-layer{position:absolute;bottom:0;left:0;width:100%;height:100%;background:url(http://www.srichinmoy.tv/wp-includes/js/mediaelement/background.png);background:rgba(50,50,50,.7);z-index:1000;overflow:hidden}.mejs-postroll-layer-content{width:100%;height:100%}.mejs-postroll-close{position:absolute;right:0;top:0;background:url(http://www.srichinmoy.tv/wp-includes/js/mediaelement/background.png);background:rgba(50,50,50,.7);color:#fff;padding:4px;z-index:100;cursor:pointer}div.mejs-speed-button{width:46px!important;position:relative}.mejs-controls .mejs-button.mejs-speed-button
+button{background:transparent;width:36px;font-size:11px;line-height:normal;color:#fff}.mejs-controls .mejs-speed-button .mejs-speed-selector{visibility:hidden;position:absolute;top:-100px;left:-10px;width:60px;height:100px;background:url(http://www.srichinmoy.tv/wp-includes/js/mediaelement/background.png);background:rgba(50,50,50,.7);border:solid 1px transparent;padding:0;overflow:hidden;-webkit-border-radius:0;-moz-border-radius:0;border-radius:0}.mejs-controls .mejs-speed-button:hover>.mejs-speed-selector{visibility:visible}.mejs-controls .mejs-speed-button .mejs-speed-selector ul li label.mejs-speed-selected{color:rgba(33,248,248,1)}.mejs-controls .mejs-speed-button .mejs-speed-selector
+ul{margin:0;padding:0;display:block;list-style-type:none!important;overflow:hidden}.mejs-controls .mejs-speed-button .mejs-speed-selector ul
+li{margin:0
+0 6px;padding:0
+10px;list-style-type:none!important;display:block;color:#fff;overflow:hidden}.mejs-controls .mejs-speed-button .mejs-speed-selector ul li
+input{clear:both;float:left;margin:3px
+3px 0 5px;display:none}.mejs-controls .mejs-speed-button .mejs-speed-selector ul li
+label{width:60px;float:left;padding:4px
+0 0;line-height:15px;font-family:helvetica,arial;font-size:11.5px;color:#fff;margin-left:5px;cursor:pointer}.mejs-controls .mejs-speed-button .mejs-speed-selector ul li:hover{background-color:#c8c8c8!important;background-color:rgba(255,255,255,.4)!important}.mejs-controls .mejs-button.mejs-skip-back-button{background:transparent url(http://www.srichinmoy.tv/wp-includes/js/mediaelement/skipback.png) no-repeat;background-position:3px 3px}.mejs-controls .mejs-button.mejs-skip-back-button
+button{background:transparent;font-size:9px;line-height:normal;color:#fff}.mejs-container{clear:both}.mejs-container
+*{font-family:Helvetica,Arial}.mejs-container,
+.mejs-embed,
+.mejs-embed body,
+.mejs-container .mejs-controls{background:#222}.mejs-controls a.mejs-horizontal-volume-slider{display:table}.mejs-controls .mejs-time-rail .mejs-time-loaded,
+.mejs-controls .mejs-horizontal-volume-slider .mejs-horizontal-volume-current{background:#fff}.mejs-controls .mejs-time-rail .mejs-time-current{background:#0074a2}.mejs-controls .mejs-time-rail .mejs-time-total,
+.mejs-controls .mejs-horizontal-volume-slider .mejs-horizontal-volume-total{background:rgba(255, 255, 255, .33)}.mejs-controls .mejs-time-rail span,
+.mejs-controls .mejs-horizontal-volume-slider .mejs-horizontal-volume-total,
+.mejs-controls .mejs-horizontal-volume-slider .mejs-horizontal-volume-current{border-radius:0}.mejs-controls .mejs-offscreen{clip:rect(1px, 1px, 1px, 1px);position:absolute}.mejs-controls a:focus>.mejs-offscreen{background-color:#f1f1f1;border-radius:3px;box-shadow:0 0 2px 2px rgba(0, 0, 0, 0.6);clip:auto;color:#21759b;display:block;font-size:14px;font-weight:bold;height:auto;line-height:normal;padding:15px
+23px 14px;position:absolute;left:0;top:15px;text-decoration:none;text-transform:none;width:auto}.mejs-overlay-loading{background:transparent}.mejs-controls button:hover{border:none;-webkit-box-shadow:none;box-shadow:none}.me-cannotplay{width:auto !important}.media-embed-details .wp-audio-shortcode{display:inline-block;max-width:400px}.audio-details .embed-media-settings{overflow:visible}.media-embed-details .embed-media-settings .setting
+span{max-width:400px;width:auto}.media-embed-details .embed-media-settings .checkbox-setting
+span{display:inline-block}.media-embed-details .embed-media-settings{padding-top:0;top:28px}.media-embed-details
+.instructions{padding:16px
+0;max-width:600px}.media-embed-details .setting p,
+.media-embed-details .setting
+a{color:#a00;font-size:10px;text-transform:uppercase}.media-embed-details .setting a:hover{color:#f00}.media-embed-details .embed-media-settings .checkbox-setting{float:none;margin:0
+0 10px}.wp-video{max-width:100%;height:auto}.wp_attachment_holder .wp-video{margin-top:18px}video.wp-video-shortcode,
+.wp-video-shortcode
+video{max-width:100%;display:inline-block}.video-details .wp-video-holder{width:100%;max-width:640px}.wp-playlist{border:1px
+solid #ccc;padding:10px;margin:12px
+0 18px;font-size:14px;line-height:1.5}.wp-admin .wp-playlist{margin:0
+0 18px}.wp-playlist
+video{display:inline-block;max-width:100%}.wp-playlist
+audio{display:none;max-width:100%;width:400px}.wp-playlist .mejs-container{margin:0;width:100%}.wp-playlist .mejs-controls .mejs-button
+button{outline:0}.wp-playlist-light{background:#fff;color:#000}.wp-playlist-dark{color:#fff;background:#000}.wp-playlist-caption{display:block;max-width:88%;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;font-size:14px;line-height:1.5}.wp-playlist-item .wp-playlist-caption{text-decoration:none;color:#000;max-width:-webkit-calc(100% - 40px);max-width:calc(100% - 40px)}.wp-playlist-item-meta{display:block;font-size:14px;line-height:1.5}.wp-playlist-item-title{font-size:14px;line-height:1.5}.wp-playlist-item-album{font-style:italic;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.wp-playlist-item-artist{font-size:12px;text-transform:uppercase}.wp-playlist-item-length{position:absolute;right:3px;top:0;font-size:14px;line-height:1.5}.rtl .wp-playlist-item-length{left:3px;right:auto}.wp-playlist-tracks{margin-top:10px}.wp-playlist-item{position:relative;cursor:pointer;padding:0
+3px;border-bottom:1px solid #ccc}.wp-playlist-item:last-child{border-bottom:0}.wp-playlist-light .wp-playlist-caption{color:#333}.wp-playlist-dark .wp-playlist-caption{color:#dedede}.wp-playlist-playing{font-weight:bold;background:#f7f7f7}.wp-playlist-light .wp-playlist-playing{background:#fff;color:#000}.wp-playlist-dark .wp-playlist-playing{background:#000;color:#fff}.wp-playlist-current-item{overflow:hidden;margin-bottom:10px;height:60px}.wp-playlist .wp-playlist-current-item
+img{float:left;max-width:60px;height:auto;margin-right:10px;padding:0;border:0}.rtl .wp-playlist .wp-playlist-current-item
+img{float:right;margin-left:10px;margin-right:0}.wp-playlist-current-item .wp-playlist-item-title,
+.wp-playlist-current-item .wp-playlist-item-artist{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.wp-audio-playlist .me-cannotplay
+span{padding:5px
+15px}
